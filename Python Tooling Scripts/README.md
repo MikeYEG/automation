@@ -32,9 +32,9 @@ To activate the virtual environment, use the command below that corresponds to y
 
 
 #### 4. Install dependancies
-Now we need to install the script dependancies using pip.
+Now we need to install the script dependencies using pip.
 
-    pip install -r requirements.txt
+    pip install itglue
 
 ## Copy Flexible Asset Types Between IT Glue Accounts
 ### Requirements
