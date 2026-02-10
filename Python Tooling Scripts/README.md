@@ -31,7 +31,7 @@ To activate the virtual environment, use the command below that corresponds to y
     .venv\Scripts\activate.bat
 
 
-#### 4. Install dependancies
+#### 4. Install dependencies
 Now we need to install the script dependencies using pip.
 
     pip install itglue
